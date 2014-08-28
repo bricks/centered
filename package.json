@@ -2,10 +2,6 @@
   "name": "centered",
   "version": "0.0.1",
   "description": "CSS Brick For Centering",
-  "main": "index.js",
-  "scripts": {
-    "test": "node test"
-  },
   "keywords": [
     "center",
     "css",
