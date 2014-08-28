@@ -1,0 +1,23 @@
+{
+  "name": "centered",
+  "version": "0.0.0",
+  "description": "CSS Brick For Centering",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "center",
+    "css",
+    "css3",
+    "brick",
+    "dom",
+    "browser"
+  ],
+  "repository": {
+    "url": "git@github.com:bricks\/centered.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD"
+}
