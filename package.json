@@ -15,9 +15,12 @@
     "browser"
   ],
   "repository": {
-    "url": "git@github.com:bricks\/centered.git",
+    "url": "git@github.com:bricks/centered.git",
     "type": "git"
   },
   "author": "azer",
-  "license": "BSD"
+  "license": "BSD",
+  "dependencies": {
+    "brick": "0.0.7"
+  }
 }
